@@ -2,6 +2,7 @@ import React from 'react'
 import Card from 'react-bootstrap/Card'
 import MessageList from './message-list'
 import AuthForm from './auth-form'
+import './chat.css'
 
 class Chat extends React.Component {
   render() {
