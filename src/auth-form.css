@@ -1,0 +1,7 @@
+.auth-block {
+    display: flex;
+}
+
+.auth-block button {
+    margin-left: 10px;
+}
