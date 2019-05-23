@@ -22,7 +22,7 @@ class AuthForm extends React.Component {
               </Col>
             </Form.Row>
           </Form>
-          <Button variant="success">Success</Button>
+          <Button onClick={this.props.auth} variant="success">Отправить</Button>
         </div>
       </div>
     )

@@ -1,0 +1,7 @@
+.message-block {
+    display: flex;
+}
+.message-control {
+    width: 100%;
+    margin-right: 10px;
+}

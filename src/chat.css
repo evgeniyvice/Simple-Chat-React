@@ -1,8 +1,19 @@
 .Chat {
     display: flex;
-    height: 500px;
+    width: 580px;
+    height: 580px;
     position: absolute;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     right: 10px;
     bottom: 10px;
+}
+.card {
+    width: 100%;
+}
+.card-body {
+    display: flex;
+    align-items: flex-end;
+}
+.message-list {
+    width: 100%;
 }
